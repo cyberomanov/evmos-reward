@@ -1,1 +1,3 @@
 # evmos-reward
+
+ostorojno, govnocode!
