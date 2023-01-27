@@ -1,0 +1,150 @@
+1 | Polychain | 0.0
+2 | Disperze | 0.0
+3 | Unit 410 | 0.0
+4 | Cosmostation | 0.0
+5 | OrbitalApes.com | 0.0
+6 | Frens (🤝,🤝) | 0.0
+7 | Notional | 0.0
+8 | GalaxyDigital | 0.0
+9 | Citadel.one | 0.0
+10 | Provalidator | 0.0
+11 |   polkachu.com | 0.0
+12 | ECO Stake 🌱 | 0.0
+13 | Hanchon.live | 0.0
+14 | Imperator.co | 0.0
+15 | TR-3B ASTRA | 0.0
+16 | Swiss Staking | 0.0
+17 | Venus | 0.0
+18 | SG-1 | 0.0
+19 | Stakecito | 0.0
+20 | binary_holdings | 0.0
+21 | jabbey | 78044.28
+22 | Oni ⛩ | 58948.34
+23 | evmos4volunteers | 0.0
+24 | stakefish | 33210.33
+25 | POSTHUMAN ꝏ DVS | 35701.11
+26 | Stakely.io | 41512.92
+27 | 0base.vc | 27398.52
+28 | P2P Validator | 5811.81
+29 | Bro_n_Bro | 73892.99
+30 | DragonStake 🐲 | 22416.97
+31 | Allnodes.com ⚡️ Auto-compound (Ledger/Keplr/MetaMask) | 51476.01
+32 | NodeStake | 33210.33
+33 | coldy 🧊 | 51476.01
+34 | AUDIT.one | 56457.56
+35 | Smart Stake | 58118.08
+36 | Golden Ratio Staking | 34870.85
+37 | Square Labs | 19926.2
+38 | Mandragora | 39022.14
+39 | Regenerator | Green Validator 🌱 | 18265.68
+40 | Forbole | 107103.32
+41 | Figment | 85516.61
+42 |  kingnodes 👑 | 66420.66
+43 | Nodes.Guru | 83856.09
+44 | Stakin | 29889.3
+45 | Quebec | 36531.37
+46 | [Beehive] | 0.0
+47 | Trailblazer | 37361.62
+48 | Tedcrypto.io 🧸 | TedLotto | 32380.07
+49 | Blockdaemon | 46494.46
+50 | Interop | 62269.37
+51 | DeFi100-iCosmosDAO 💯⚛️ | 29889.3
+52 | Sentinel dVPN | 60608.86
+53 | a41 | 68081.18
+54 | ZKValidator | 54797.05
+55 | Zenith Station | 83856.09
+56 | GATA DAO | 11623.62
+57 | Chorus One | 92988.93
+58 | Psycho Node | 51476.01
+59 | MZONDER | 85516.61
+60 | Chandra Station | 77214.02
+61 | Qubelabs | 19095.94
+62 | CosmosPug 🍒 | 44833.95
+63 | Meria | 87177.12
+64 | First Foundry | 39022.14
+65 |  Lavender.Five Nodes 🐝 | 57287.82
+66 | Citizen Cosmos | 38191.88
+67 | Evmos Guardians | 97140.22
+68 | AM Solutions 🪐 | 9132.84
+69 | spacefi.io | 59778.6
+70 | Informal Systems | 42343.17
+71 |    WhisperNode🤐 | 63929.89
+72 | Gelotto 🛡 Slash Protected | 26568.27
+73 | alkadeta | 73062.73
+74 |  AutoStake 🛡️ Slash Protected | 25738.01
+75 | airdropdao | 49815.5
+76 | qwoyn | 34040.59
+77 | LMECripto | 37361.62
+78 | evmosius (⚛️,⚛️) | 58948.34
+79 | Blockchain at Berkeley | 39022.14
+80 | ericet | 17435.42
+81 | Cosmos Spaces ☮️ 💜 ⚛️ | 34040.59
+82 | Klub Staking | 44003.69
+83 | danku_zone w/ DAIC | 68911.44
+84 | 天照☀ | 21586.72
+85 | StakeLab | 19926.2
+86 | TC Network | 9132.84
+87 | DefierEvmos | 9963.1
+88 | Mandoo | 20756.46
+89 | StakeWithUs | 29889.3
+90 | BlockHunters 🎯 | 46494.46
+91 | Consensus One | 54797.05
+92 | Upnode | 0% Fee | 42343.17
+93 |  carbonZERO🌲 | 35701.11
+94 | Expandingspace.io | Let's Node | 55627.31
+95 | SmartNodes-Family 🛡️ Slash Protected | 28228.78
+96 |  RHINO | 10% to Wildlife | 16605.17
+97 | 	EZStaking.io | 34040.59
+98 | ✅ CryptoCrew - 100% MEV revenue to Evmos stakers! #IBCgang #REstake | 34040.59
+99 | heisenbug | 47324.72
+100 | Jerry's Pool | 39852.4
+101 | Validatrium.com | 0.0
+102 | StakeRun | 50645.76
+103 | Validavia | 37361.62
+104 | Krillbucks | 2490.77
+105 | cros-nest | 125369.0
+106 | BwareLabs | Blastapi.io | 30719.56
+107 | Vault Staking | Slash Protected | 44833.95
+108 | Silk Nodes | 100% MEV revenue to Evmos stakers! | 30719.56
+109 | silent | 17435.42
+110 | Tessellated | 34040.59
+111 | blockscape | 12453.87
+112 | ping | 44003.69
+113 | pro-nodes75 | 0.0
+114 | 🐸 SpacePepe Labs 🔬✅🎁 | 57287.82
+115 | Validator.run | 100% Slash Protected | 21586.72
+116 | Coinbase Cloud | 72232.47
+117 | Alphabet | 0.0
+118 | Illuminati | 76383.76
+119 | Witval | 42343.17
+120 | @Airdrops_one x Spark IBC | 59778.6
+121 | Validatus | 25738.01
+122 | NosNode⛓ | 30719.56
+123 | Jackal | 48154.98
+124 | Architect Nodes | 49815.5
+125 | MMS | 63929.89
+126 | KalpaTech | 32380.07
+127 | Stake Frites (🥩 , 🍟) | 20756.46
+128 | Bored Ape Server | 24907.75
+129 | Cypher Core Remix | 11623.62
+130 | kallen | 73062.73
+131 | DELIGHT | 0.0
+132 | windpowerstake | 30719.56
+133 | Multiplex | 19095.94
+134 | votes4volunteers | 0.0
+135 | Coverlet | 87177.12
+136 | Legion Nodes | 0.0
+137 | sleepykitten | 39022.14
+138 | 🤑 uGaenn ⛅ | 28228.78
+139 | SpacePotato | 28228.78
+140 | ChainTools | 28228.78
+141 | stake.systems | 52306.27
+142 | AlphaNodes.EVMOS🛸 | 74723.25
+143 | Chill Validation | 38191.88
+144 | Galaxias | 🛡️ Slash protected | 24907.75
+145 | GalaxyStaking.space 🌑 | 22416.97
+146 | Active Nodes | 28228.78
+147 | Blockwavelabs | 43173.43
+148 | #decentralizehk - DHK dao | 57287.82
+149 | Wetez | 26568.27
+150 | HashQuark | 26568.27
