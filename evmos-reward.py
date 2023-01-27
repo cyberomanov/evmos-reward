@@ -2,13 +2,19 @@ import re
 
 import requests
 
-
 ADDRESS = [
     'evmos1xxxx',
     'evmos1xxxx',
     'evmos1xxxx',
     'evmos1xxxx',
 ]
+
+VALOPER = [
+    'evmosvaloperxxxx',
+    'evmosvaloperxxxx',
+]
+
+DENOM = 1_000_000_000_000_000_000
 
 
 def get_account_set() -> list:
@@ -33,32 +39,55 @@ def get_account_set() -> list:
     return account_set
 
 
-def get_reward(account_set: list, address: str) -> float:
-    denom = 1_000_000_000_000_000_000
+def get_address_reward(account_set: list, address: str) -> float:
     for account in account_set:
         if account['address'] == address:
-            return round(account['amount'] / denom, 2)
+            return round(account['amount'] / DENOM, 2)
 
 
-def get_valoper(account_set: list, address: str) -> str:
+def get_address_valoper(account_set: list, address: str) -> str:
     for account in account_set:
         if account['address'] == address:
             return account['valoper']
 
 
+def get_valoper_delegation(account_set: list, valoper: str) -> float:
+    total_delegation = 0.0
+    for account in account_set:
+        if account['valoper'] == valoper:
+            total_delegation += account['amount']
+
+    return round(total_delegation / DENOM, 2)
+
+
 if __name__ == '__main__':
     total_reward = 0.0
+    total_delegation = 0.0
 
     account_set = get_account_set()
 
     for address in ADDRESS:
-        reward = get_reward(account_set=account_set, address=address)
-        total_reward += reward
-        valoper = get_valoper(account_set=account_set, address=address)
-        
-        print(f"address >>>> {address}.\n"
-              f"rewards >>>> {reward} $EVMOS.\n"
-              f"staked_in >> https://www.mintscan.io/evmos/validators/{valoper}.\n")
-        
-    print(f"total: {total_reward} $EVMOS.\n\n"
-          f"with love by @cyberomanov.\n")
+        if address != '' and address != 'evmos1xxxx':
+            reward = get_address_reward(account_set=account_set, address=address)
+            total_reward += reward
+            valoper = get_address_valoper(account_set=account_set, address=address)
+
+            print(f"address >>>> {address}.\n"
+                  f"rewards >>>> {reward} $EVMOS.\n"
+                  f"staked_in >> https://www.mintscan.io/evmos/validators/{valoper}.\n")
+
+    if total_reward:
+        print(f"total_reward: {total_reward} $EVMOS.\n")
+
+    for valoper in VALOPER:
+        if valoper != '' and valoper != 'evmosvaloperxxxx':
+            delegation = get_valoper_delegation(account_set=account_set, valoper=valoper)
+            total_delegation += delegation
+
+            print(f"valoper: {valoper}.")
+            print(f"delegation: {delegation} $EVMOS.\n")
+
+    if total_delegation:
+        print(f"total_delegation: {total_delegation} $EVMOS.\n")
+
+    print(f"with love by @cyberomanov.\n")
