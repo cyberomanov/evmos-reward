@@ -19,4 +19,5 @@ delegation: 85516.61 $EVMOS.
 
 total_delegation: 158579.34 $EVMOS.
 
-with love by @cyberomanov.```
+with love by @cyberomanov.
+```
